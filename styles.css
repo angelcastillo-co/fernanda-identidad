@@ -164,7 +164,7 @@ strong { font-weight: 700; }
   background: var(--color-warm-white);
   text-align: center;
   overflow: hidden;
-  background-image: url("FERNANDA.png");
+  background-image: url("img/FERNANDA.png");
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
@@ -280,7 +280,7 @@ strong { font-weight: 700; }
   padding: var(--space-2xl) var(--space-md);
   background-image: 
         linear-gradient(rgba(0,0,0,0.8),rgba(0,0,0,0.8)),
-  url("concepto_visual.png");
+  url("img/concepto_visual.png");
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
