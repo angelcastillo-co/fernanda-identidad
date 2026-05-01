@@ -395,7 +395,7 @@ strong { font-weight: 700; }
 
 .isotipo-card--principal {
   background: var(--color-cream);
-  color: white;
+  color: rgb(0, 0, 0);
 }
 
 .isotipo-card--mono {
